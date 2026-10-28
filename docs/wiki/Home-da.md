@@ -18,7 +18,7 @@ En flashcard-side til at lære farverne på spansk, lavet kun med HTML og CSS.
 
 ## Sådan kører du den
 
-Åbn `index.html` i en vilkårlig browser. Der er intet at installere.
+Åbn `src/index.html` i en vilkårlig browser. Der er intet at installere.
 
 ## Sådan virker den
 
@@ -49,5 +49,5 @@ Skærmbilledet er taget med headless Chrome i et 480 px bredt vindue:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=wiki/images/colour-vocab.png file:///sti/til/index.html
+  --screenshot=docs/wiki/images/colour-vocab.png file:///sti/til/src/index.html
 ```

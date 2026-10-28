@@ -5,7 +5,7 @@ the Spanish word, coloured to match its meaning, above a swatch of that colour.
 Built with plain HTML and CSS for Udemy's *100 Days of Code*, lesson 5.4
 (Color Vocab Project).
 
-![The finished page: Rojo, Azul, Anaranjado, Verde and Amarillo, each above a 200px colour swatch](wiki/images/colour-vocab.png)
+![The finished page: Rojo, Azul, Anaranjado, Verde and Amarillo, each above a 200px colour swatch](docs/wiki/images/colour-vocab.png)
 
 ## Vocabulary
 
@@ -19,23 +19,23 @@ Built with plain HTML and CSS for Udemy's *100 Days of Code*, lesson 5.4
 
 ## Run it
 
-No build step and no dependencies. Open `index.html` in a browser.
+No build step and no dependencies. Open `src/index.html` in a browser.
 
 ## Files
 
 | Path | Purpose |
 | --- | --- |
-| `index.html` | The page. Given by the exercise and left unchanged. |
-| `style.css` | All styling: 200px × 200px images, normal-weight titles, one text colour per colour word. |
-| `assets/images/` | The five colour swatches. |
+| `src/index.html` | The page. Given by the exercise and left unchanged. |
+| `src/style.css` | All styling: 200px × 200px images, normal-weight titles, one text colour per colour word. |
+| `src/assets/images/` | The five colour swatches. |
 
 ## Wiki
 
-Documentation in three languages lives in [`wiki/`](wiki/):
+Documentation in three languages lives in [`docs/wiki/`](docs/wiki/):
 
-- [English](wiki/Home.md)
-- [Dansk](wiki/Home-da.md)
-- [Bahasa Malaysia](wiki/Home-ms.md)
+- [English](docs/wiki/Home.md)
+- [Dansk](docs/wiki/Home-da.md)
+- [Bahasa Malaysia](docs/wiki/Home-ms.md)
 
 ## Licence
 

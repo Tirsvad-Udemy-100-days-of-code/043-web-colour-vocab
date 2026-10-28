@@ -19,7 +19,7 @@ dibina dengan HTML dan CSS sahaja.
 
 ## Cara menjalankan
 
-Buka `index.html` dalam mana-mana pelayar. Tiada apa-apa untuk dipasang.
+Buka `src/index.html` dalam mana-mana pelayar. Tiada apa-apa untuk dipasang.
 
 ## Cara ia berfungsi
 
@@ -51,5 +51,5 @@ Tangkapan skrin diambil dengan Chrome headless dalam tetingkap lebar 480 px:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=wiki/images/colour-vocab.png file:///laluan/ke/index.html
+  --screenshot=docs/wiki/images/colour-vocab.png file:///laluan/ke/src/index.html
 ```
