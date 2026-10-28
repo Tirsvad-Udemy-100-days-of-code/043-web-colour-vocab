@@ -51,5 +51,5 @@ Tangkapan skrin diambil dengan Chrome headless dalam tetingkap lebar 480 px:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=wiki/images/colour-vocab.png file:///laluan/ke/index.html
+  --screenshot=docs/wiki/images/colour-vocab.png file:///laluan/ke/index.html
 ```

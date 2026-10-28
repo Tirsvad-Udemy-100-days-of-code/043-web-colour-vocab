@@ -49,5 +49,5 @@ The screenshot was taken with headless Chrome at a 480 px wide window:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=wiki/images/colour-vocab.png file:///path/to/index.html
+  --screenshot=docs/wiki/images/colour-vocab.png file:///path/to/index.html
 ```

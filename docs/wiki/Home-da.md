@@ -49,5 +49,5 @@ Skærmbilledet er taget med headless Chrome i et 480 px bredt vindue:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=wiki/images/colour-vocab.png file:///sti/til/index.html
+  --screenshot=docs/wiki/images/colour-vocab.png file:///sti/til/index.html
 ```
