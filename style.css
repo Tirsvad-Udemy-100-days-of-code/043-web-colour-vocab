@@ -1,0 +1,29 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.color-title {
+  font-weight: normal;
+}
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+/* Plain "yellow" is unreadable on white, so a darker yellow is used. */
+#yellow {
+  color: #d4a900;
+}
