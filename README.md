@@ -19,15 +19,15 @@ Built with plain HTML and CSS for Udemy's *100 Days of Code*, lesson 5.4
 
 ## Run it
 
-No build step and no dependencies. Open `index.html` in a browser.
+No build step and no dependencies. Open `src/index.html` in a browser.
 
 ## Files
 
 | Path | Purpose |
 | --- | --- |
-| `index.html` | The page. Given by the exercise and left unchanged. |
-| `style.css` | All styling: 200px × 200px images, normal-weight titles, one text colour per colour word. |
-| `assets/images/` | The five colour swatches. |
+| `src/index.html` | The page. Given by the exercise and left unchanged. |
+| `src/style.css` | All styling: 200px × 200px images, normal-weight titles, one text colour per colour word. |
+| `src/assets/images/` | The five colour swatches. |
 
 ## Wiki
 
