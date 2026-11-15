@@ -1,11 +1,11 @@
-[English](Home) · [Dansk](Home-da) · **Bahasa Malaysia**
+[English](Home) · [Dansk](Home-da) · **Bahasa Melayu**
 
 # Colour Vocab
 
 Laman kad imbas satu halaman untuk belajar warna dalam bahasa Sepanyol,
 dibina dengan HTML dan CSS sahaja.
 
-![Halaman siap](images/colour-vocab.png)
+![Halaman siap](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/043-web-colour-vocab/raw/branch/main/docs/images/colour-vocab.png)
 
 ## Kosa kata
 
@@ -51,5 +51,10 @@ Tangkapan skrin diambil dengan Chrome headless dalam tetingkap lebar 480 px:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=docs/wiki/images/colour-vocab.png file:///laluan/ke/src/index.html
+  --screenshot=docs/images/colour-vocab.png file:///laluan/ke/src/index.html
 ```
+
+## Seterusnya
+
+- [Bermula](Getting-Started-ms)
+- [Dokumen Projek](Project-Documents-ms)
