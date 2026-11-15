@@ -1,11 +1,11 @@
-**English** · [Dansk](Home-da) · [Bahasa Malaysia](Home-ms)
+**English** · [Dansk](Home-da) · [Bahasa Melayu](Home-ms)
 
 # Colour Vocab
 
 A one-page flashcard site for learning the colours in Spanish, built with HTML
 and CSS only.
 
-![The finished page](images/colour-vocab.png)
+![The finished page](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/043-web-colour-vocab/raw/branch/main/docs/images/colour-vocab.png)
 
 ## Vocabulary
 
@@ -49,5 +49,10 @@ The screenshot was taken with headless Chrome at a 480 px wide window:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=docs/wiki/images/colour-vocab.png file:///path/to/src/index.html
+  --screenshot=docs/images/colour-vocab.png file:///path/to/src/index.html
 ```
+
+## Next
+
+- [Getting Started](Getting-Started)
+- [Project Documents](Project-Documents)

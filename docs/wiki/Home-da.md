@@ -1,10 +1,10 @@
-[English](Home) · **Dansk** · [Bahasa Malaysia](Home-ms)
+[English](Home) · **Dansk** · [Bahasa Melayu](Home-ms)
 
 # Colour Vocab
 
 En flashcard-side til at lære farverne på spansk, lavet kun med HTML og CSS.
 
-![Den færdige side](images/colour-vocab.png)
+![Den færdige side](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/043-web-colour-vocab/raw/branch/main/docs/images/colour-vocab.png)
 
 ## Gloser
 
@@ -49,5 +49,10 @@ Skærmbilledet er taget med headless Chrome i et 480 px bredt vindue:
 
 ```bash
 chrome --headless=new --hide-scrollbars --window-size=480,1490 \
-  --screenshot=docs/wiki/images/colour-vocab.png file:///sti/til/src/index.html
+  --screenshot=docs/images/colour-vocab.png file:///sti/til/src/index.html
 ```
+
+## Videre
+
+- [Kom godt i gang](Getting-Started-da)
+- [Projektdokumenter](Project-Documents-da)
